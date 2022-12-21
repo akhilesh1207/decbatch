@@ -1,6 +1,6 @@
 task-8 dec
 
-Activity 1
+Activity 1 --done
 Step1: create a local repo
 step2: create 3 files in main branch
 step3: create repo in git hub
